@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 mainFile1
-=======
 mainFile1 FirstBranch
->>>>>>> FirstBranch
+mainFile1 from second branch
